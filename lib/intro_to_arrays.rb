@@ -10,6 +10,6 @@ def first_element(taylor_swift)
  taylor_swift[0]
 end
 
-def my_third_element(taylor_swift)
-  taylor_swift(2)
-end
+
+def third_element(taylor_swift)
+  taylor_swift[2]
